@@ -8,7 +8,7 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 use pocketmine\command\{Command, CommandSender};
 use pocketmine\item\Item;
-use ppcketmine\block\Block;
+use pocketmine\block\Block;
 use pocketmine\inventory\Inventory;
 use pocketmine\event\player\PlayerInteractEvent;
 
