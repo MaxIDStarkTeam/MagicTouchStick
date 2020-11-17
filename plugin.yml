@@ -1,0 +1,13 @@
+name: MagicTouchStick
+main: MaxIDStarkTeam\MagicTouchStick\Loader
+version: 1
+api: 3.0.0
+author: MaxIDStarkTeam
+commands:
+   mstick:
+      description: "Touch Block to get that Block"
+      usage: /mstick
+      default: op
+permissions:
+   magic.stick:
+      description: P
